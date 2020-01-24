@@ -1,0 +1,13 @@
+C:\Users\opilane\Projects\Git_Hub_Profile\Git_Hub_Profile\bin\Debug\netcoreapp3.1\Git_Hub_Profile.exe
+C:\Users\opilane\Projects\Git_Hub_Profile\Git_Hub_Profile\obj\Debug\netcoreapp3.1\Git_Hub_Profile.csprojAssemblyReference.cache
+C:\Users\opilane\Projects\Git_Hub_Profile\Git_Hub_Profile\obj\Debug\netcoreapp3.1\Git_Hub_Profile.AssemblyInfoInputs.cache
+C:\Users\opilane\Projects\Git_Hub_Profile\Git_Hub_Profile\obj\Debug\netcoreapp3.1\Git_Hub_Profile.AssemblyInfo.cs
+C:\Users\opilane\Projects\Git_Hub_Profile\Git_Hub_Profile\bin\Debug\netcoreapp3.1\Git_Hub_Profile.deps.json
+C:\Users\opilane\Projects\Git_Hub_Profile\Git_Hub_Profile\bin\Debug\netcoreapp3.1\Git_Hub_Profile.runtimeconfig.json
+C:\Users\opilane\Projects\Git_Hub_Profile\Git_Hub_Profile\bin\Debug\netcoreapp3.1\Git_Hub_Profile.runtimeconfig.dev.json
+C:\Users\opilane\Projects\Git_Hub_Profile\Git_Hub_Profile\bin\Debug\netcoreapp3.1\Git_Hub_Profile.dll
+C:\Users\opilane\Projects\Git_Hub_Profile\Git_Hub_Profile\bin\Debug\netcoreapp3.1\Git_Hub_Profile.pdb
+C:\Users\opilane\Projects\Git_Hub_Profile\Git_Hub_Profile\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\opilane\Projects\Git_Hub_Profile\Git_Hub_Profile\obj\Debug\netcoreapp3.1\Git_Hub_Profile.csproj.CopyComplete
+C:\Users\opilane\Projects\Git_Hub_Profile\Git_Hub_Profile\obj\Debug\netcoreapp3.1\Git_Hub_Profile.dll
+C:\Users\opilane\Projects\Git_Hub_Profile\Git_Hub_Profile\obj\Debug\netcoreapp3.1\Git_Hub_Profile.pdb
